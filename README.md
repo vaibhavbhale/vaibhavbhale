@@ -18,33 +18,10 @@
 <h2 align="center">LeetCode Info</h2>
 
 <p align="center">
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="70"/>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="70"/>
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="70"/>
-</p>
-
-<p align="center">
   <img 
     src="https://leetcard.jacoblin.cool/Vaibhav_Bhale?theme=dark&font=Nunito&ext=heatmap"
     width="420"
   />
-</p>
-
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavbhale&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavbhale&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavbhale&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
-## 🏆 GitHub Trophies:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vaibhavbhale&theme=onedark&row=1&column=6" />
 </p>
 
 
