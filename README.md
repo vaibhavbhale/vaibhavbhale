@@ -30,11 +30,24 @@
   />
 </p>
 
-</a>
+## 📊 GitHub Stats:
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavbhale&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavbhale&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavbhale&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+## 🏆 GitHub Trophies:
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vaibhavbhale&theme=onedark&row=1&column=6" />
+</p>
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -45,19 +58,6 @@
 * 👨‍💻 Exploring **REST APIs, Databases, and AI Integrations**
 * 💬 Ask me about **Python, Django, MySQL, Numpy, Pandas**
 * ⚡ Passionate about solving coding problems and building scalable applications
-
-  ## 🚀 Featured Projects:
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Resume Ranker AI</h3>
-<div align="center">
-<a href="https://github.com/vaibhavbhale/Resume-Ranker-AI" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavbhale&repo=Resume-Ranker-AI&theme=dark" />
-</a>
-</div>
-</td>
 
 
 
