@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Bhale</h1>
 <h3 align="center">Python Backend Developer | Django Developer | Computer Engineering Student</h3>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=vaibhavbhale)
 
 <table align="center" width="100%">
@@ -18,13 +20,23 @@
 <h2 align="center">LeetCode Info</h2>
 
 <p align="center">
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="70"/>
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="70"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="70"/>
+</p>
+
+<p align="center">
   <img 
     src="https://leetcard.jacoblin.cool/Vaibhav_Bhale?theme=dark&font=Nunito&ext=heatmap"
     width="420"
   />
 </p>
 
+</a>
 
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -33,10 +45,20 @@
 * 🔭 Currently working on **Django-based AI Projects**
 * 🌱 Learning **Advanced Backend Development & System Design**
 * 👨‍💻 Exploring **REST APIs, Databases, and AI Integrations**
-* 💬 Ask me about **Python, Django, MySQL, Numpy, Pandas**
+* 💬 Ask me about **Python, Django, MySQL, Power BI**
 * ⚡ Passionate about solving coding problems and building scalable applications
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<h1 align="left">Languages and Tools:</h1>
+
+<p align="center">
+  <img width="420" src="https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/3928c779-ca3a-4e88-a7b6-b243ad12f4e5"/>
+</p>
+
+<br>
+
+<table align="center">
 
 <tr>
 <td align="center" width="110">
@@ -91,6 +113,15 @@
 <a href="https://linkedin.com/in/vaibhav-bhale-041727293" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
 <a href="mailto:vaibhavbhale17@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 </p>
+
+---
+
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=vaibhavbhale\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavbhale\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false\&layout=compact)
+
 ---
 
 ![](https://visitcount.itsvg.in/api?id=vaibhavbhale\&icon=0\&color=0)
