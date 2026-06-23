@@ -46,17 +46,20 @@
 * 💬 Ask me about **Python, Django, MySQL, Numpy, Pandas**
 * ⚡ Passionate about solving coding problems and building scalable applications
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  ## 🚀 Featured Projects:
 
-<h1 align="left">Languages and Tools:</h1>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Resume Ranker AI</h3>
+<div align="center">
+<a href="https://github.com/vaibhavbhale/Resume-Ranker-AI" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavbhale&repo=Resume-Ranker-AI&theme=dark" />
+</a>
+</div>
+</td>
 
-<p align="center">
-  <img width="420" src="https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/3928c779-ca3a-4e88-a7b6-b243ad12f4e5"/>
-</p>
 
-<br>
-
-<table align="center">
 
 <tr>
 <td align="center" width="110">
@@ -111,15 +114,6 @@
 <a href="https://linkedin.com/in/vaibhav-bhale-041727293" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
 <a href="mailto:vaibhavbhale17@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 </p>
-
----
-
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=vaibhavbhale\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavbhale\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false\&layout=compact)
-
 ---
 
 ![](https://visitcount.itsvg.in/api?id=vaibhavbhale\&icon=0\&color=0)
