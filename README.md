@@ -20,12 +20,6 @@
 <h2 align="center">LeetCode Info</h2>
 
 <p align="center">
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="70"/>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="70"/>
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="70"/>
-</p>
-
-<p align="center">
   <img 
     src="https://leetcard.jacoblin.cool/Vaibhav_Bhale?theme=dark&font=Nunito&ext=heatmap"
     width="420"
@@ -116,12 +110,3 @@
 
 ---
 
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=vaibhavbhale\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavbhale\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false\&layout=compact)
-
----
-
-![](https://visitcount.itsvg.in/api?id=vaibhavbhale\&icon=0\&color=0)
