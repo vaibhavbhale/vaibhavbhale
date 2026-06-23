@@ -9,9 +9,24 @@ Python Backend & Web Developer | Django  | MySQL | Computer Engineering Student<
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
+<a href="https://leetcode.com/u/Vaibhav_Bhale/" target="_blank">
+<h2 align="center">Leetcode Info</h2>
+
+<p align="center">
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="70"/>
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="70"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="70"/>
+</p>
+
+<p align="center">
+  <img 
+    src="https://leetcard.jacoblin.cool/harshpatil6054?theme=dark&font=Nunito&ext=heatmap"
+    width="420"
+  />
+</p>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavbhale&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vaibhavbhale&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
