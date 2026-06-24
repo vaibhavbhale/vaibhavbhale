@@ -34,6 +34,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🏅 LeetCode Badges:
+
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Vaibhav_Bhale&theme=dark&animated=true" alt="LeetCode Badges"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 💫 About Me:
 
 * 🔭 Currently working on **Django-based AI Projects**
@@ -109,4 +117,3 @@
 </p>
 
 ---
-
